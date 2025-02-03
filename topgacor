@@ -1,0 +1,77 @@
+<html>    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title> Situs Slot Gacor 2025, mudah JP dan pasti dibayar </title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet"> 
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>          
+    </head>
+    <body>
+	
+        <link rel="stylesheet" href="dist/style.css">         
+        
+        <!-- Logo -->
+		<style type="text/css">
+			a.ok {border:none !important; }
+			.ok:hover {background-color:transparent !Important}
+		</style>
+        <a href="https://tujuhtiga.vip/gadisdesa" class="ok">
+			<img class="logo" src="img/QQSLOT-900x-116.jpg"/>
+		</a>
+        <div class="sk-circle" id="spinner" style="display:none;">
+		  <div class="sk-circle1 sk-child"></div>
+		  <div class="sk-circle2 sk-child"></div>
+		  <div class="sk-circle3 sk-child"></div>
+		  <div class="sk-circle4 sk-child"></div>
+		  <div class="sk-circle5 sk-child"></div>
+		  <div class="sk-circle6 sk-child"></div>
+		  <div class="sk-circle7 sk-child"></div>
+		  <div class="sk-circle8 sk-child"></div>
+		  <div class="sk-circle9 sk-child"></div>
+		  <div class="sk-circle10 sk-child"></div>
+		  <div class="sk-circle11 sk-child"></div>
+		  <div class="sk-circle12 sk-child"></div>
+		</div>  
+
+        <!-- Featured -->
+        <h2> Informasi Penting </h2>
+        <h3>Situs Resmi <text style="color:yellow;">Taruhan Online</text> QQSLOT, Menang Berapapun Pasti Dibayar di <text style="color:red;">QQSLOT</text></h3> 
+        <h2 style="color:yellow;">Klik Link untuk Daftar  <text style="color:red;">QQSLOT</text> Daftar Sekarang</h2> 
+        <br>
+        <a class=" btn-glowing" href="https://tujuhtiga.vip/gadisdesa" > 💥 DAFTAR GRATIS 💥 </a>
+		
+		
+
+        <!-- Channels -->
+        <!-- <h2>Follow Me On</h2> -->
+
+        <!-- <div class="channels">
+            <a href="">Blog</a>
+            <a href="">YouTube</a>
+            <a href="">Twitch</a>
+        </div> -->
+        
+        <script>
+            function go(where) {
+                var pixel = "AddToCart";
+                var url = "click.php?p=daftar";
+                if (where == "slot") {
+                    url = "click.php?p=slot"
+                    pixel = "slot";
+                } else if (where == "login") {
+                    url = "click.php?p=login";
+                    pixel = "login";
+                } 	
+                $("#spinner").show();
+                jQuery('body').css({ opacity: 0.2 }); 
+                setTimeout(
+                function() 
+                {
+                    $(location).attr('href',url);
+                }, 150);	
+            }
+        </script> 
+    
+    </body> 
+        
+</html>
